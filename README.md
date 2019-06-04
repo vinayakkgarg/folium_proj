@@ -2,4 +2,4 @@
 
 Beginner project using folium library for geospatial analysis in python
 
-![States of Anerica][states.png]
+![States of Anerica][states.jpg]
